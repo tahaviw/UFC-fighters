@@ -9,6 +9,10 @@ UI design.
 
 ------------------------------------------------------------------------
 
+## You can view the live demo of the project here: https://ufc-fighters-tahaviw.netlify.app/
+
+------------------------------------------------------------------------
+
 ## Features
 
 -   Dynamic fighter selection via dropdown menu
